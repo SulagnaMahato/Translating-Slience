@@ -66,6 +66,12 @@ Contributions are welcome! Here's how you can help:
         <sub><b>HARAJIT05</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/SulagnaMahato">
+        <img src="https://avatars.githubusercontent.com/u/162031954?v=4" width="100px;" alt="Sulagna Mahato"/><br />
+        <sub><b>SULAGNA</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
